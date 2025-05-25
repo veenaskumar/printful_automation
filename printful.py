@@ -5,7 +5,7 @@ from typing import Dict, List
 import time
 
 # === Place your Printful API key here ===
-PRINTFUL_API_KEY = "8NDoNkeGWdSm2PP8cZu0onv5lfRhxED75h6oXzXe"
+PRINTFUL_API_KEY = "8Enter your key"
 
 HEADERS = {
     "Authorization": f"Bearer {PRINTFUL_API_KEY}",
