@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Dist and build folders
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PEP 582; used by some package managers like PDM
+__pypackages__/
+
+# Test and log files
+*.log
+
+# Django stuff
+*.sqlite3
+db.sqlite3
+
+# VS Code
+.vsco
+
